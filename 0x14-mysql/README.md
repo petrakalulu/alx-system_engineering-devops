@@ -1,1 +1,1 @@
-Mysql
+Solutions to tasks on MySQL
