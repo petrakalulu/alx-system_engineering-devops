@@ -1,0 +1,1 @@
+Troubleshooting Apache 500 Error using Puppet Requirement Summary In this task, we need to troubleshoot and fix an Apache 500 Internal Server Error using Puppet. We will use strace to identify the issue and then automate the fix using Puppet manifests.
