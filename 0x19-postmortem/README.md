@@ -1,4 +1,1 @@
-Task 0
-://docs.google.com/document/d/169SSC6QyxHly0cAmQ_UDxmdm5xaZqeSouGKxminHj9Q/edit?usp=sharing
-Task 1
-https://docs.google.com/document/d/1shm33lRbqUrqzVD3H2sEk6StwZ1-mXRfUPX-JvAgcR8/edit?usp=sharing
+https://docs.google.com/document/d/1il2-3v3Z4LZJ8DH-18_F96A5lsMaAzSAYNY1HxO1IAc/edit?usp=sharing
